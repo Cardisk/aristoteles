@@ -2,4 +2,4 @@
 
 ### *INFO*
 
-`Aristoteles` is a networking library written in C language.
+Networking library written in C language.
